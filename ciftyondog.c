@@ -10,7 +10,7 @@ struct node {
 struct node * start = NULL;
 struct node * temp = NULL;
 struct node * temp2 = NULL;
-struct node * temp3 =NULL;
+
 
 
 struct node * addbeg(struct node * start)
